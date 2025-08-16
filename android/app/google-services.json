@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309777409848",
+    "project_id": "jazz-world-clone",
+    "storage_bucket": "jazz-world-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309777409848:android:a3c72ed0ad35fecc0103cd",
+        "android_client_info": {
+          "package_name": "com.example.jazz_world_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA070GebkyHW63rJsdhUrqXRhrFSd5W3cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
